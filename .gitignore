@@ -1,0 +1,27 @@
+# Generated stuff
+*.class
+*.data
+*.ser
+*.log
+
+# Eclipse
+.settings
+.project
+.classpath
+
+# Maven
+target
+
+# IntelliJ
+.idea
+*.iml
+*.ipr
+*.iws
+out
+
+# OSX
+.DS_Store
+
+# Gradle
+build
+.gradle
